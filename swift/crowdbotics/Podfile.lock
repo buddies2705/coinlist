@@ -1,22 +1,20 @@
 PODS:
-  - crowdbotics (0.1.0)
-  - IQKeyboardManagerSwift (5.0.7)
-  - SideMenu (3.1.5)
+  - Alamofire (4.8.1)
+  - SwiftyJSON (4.2.0)
 
 DEPENDENCIES:
-  - crowdbotics (from `../`)
-  - IQKeyboardManagerSwift
-  - SideMenu
+  - Alamofire
+  - SwiftyJSON
 
-EXTERNAL SOURCES:
-  crowdbotics:
-    :path: ../
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - SwiftyJSON
 
 SPEC CHECKSUMS:
-  crowdbotics: f5a348c1211cd8fb6cf8a4d7403c16b0df53a54a
-  IQKeyboardManagerSwift: 30fb3a61de1af53a95e02b80fb54ed0a19d5ede5
-  SideMenu: 47dbf9e4d878062d8994aed43f6e4bf6c1fea30b
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
 
-PODFILE CHECKSUM: 976b9d3f505697bfefbdc86c01fc85dd9d518a5a
+PODFILE CHECKSUM: a8016468fc2127c411821b68a83df4475ba0aa3c
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.5.3
